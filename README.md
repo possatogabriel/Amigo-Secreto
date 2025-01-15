@@ -1,4 +1,4 @@
-# 🎫 E-Ticket
+# 🎁 Amigo Secreto
 
 <img src = "assets/Demonstração.gif" alt = "GIF da demonstração do site"/>
 
