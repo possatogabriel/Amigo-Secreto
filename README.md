@@ -1,22 +1,39 @@
 # 🎁 Amigo Secreto
 
+<img src = "assets/Demonstração.gif" alt = "GIF da demonstração do site"/>
+
 ## 📰 Descrição
 
-💬 Último projeto do último curso de Lógica de Programação da Alura
+Quinto e último projeto do último curso de Lógica de Programação da Alura
 
-🚩 Este projeto, usando de uma **estrutura bem mais complexa em JS**, é um **sorteador de nomes** para usar no seu **Amigo Secreto!** Ele retorna ao usuário **os nomes inseridos de forma aleatória** (que também podem ser **excluídos**) para determinar a ordem de quem entregará os presentes!  
+Esse projeto apresenta um **sorteador de nomes** para seu Amigo Secreto, onde os nomes são inseridos *ou excluídos* pelo próprio usuário (que também pode reiniciar o sorteio)
 
-🏆 Além das **_melhorias no código_** para uma estrutura mais "limpa", de forma _**completamente opcional e individual**_, adicionei uma pequena "feature" que, **_ao passar o mouse pelos nomes inseridos, o cursor,_** assim como o **_nome, ficam diferentes, mostrando que podem ser excluídos_** 
+> Assim como os últimos, esse projeto continua utilizando de conceitos aprendidos anteriormente, mas também apresenta novos: .splice **(comando que remove elementos de um Array e, se necessário, insere novos elementos no lugar, retornando os deletados)**, document.createElement **(cria uma "tag" no documento HTML)**, .appendChild **(comando que devolve uma referência ao nó adicionado, ou seja, devolve o "elemento criado")**, .addEventListener **(adiciona um evento ao realizar ação específica)**...
+> - Esse projeto também conta com alterações individuais e opcionais ao HTML, CSS e JS: adição de uma **classe ao parágrafo de cada nome pelo próprio JS (que ao passar o mouse deixa o texto em vermelho, mostrando que pode ser excluído)**, além de uma modificação no código em JS para **manter o sorteio na tela após excluir um nome** 
 
 ## 🔗 Link para vizualização
 
-<a href = "https://amigo-secreto-alpha-eight.vercel.app/"> <img alt="Static Badge" src="https://img.shields.io/badge/Clique aqui-blue?style=for-the-badge"> </a>
+<a href = "https://amigo-secreto-alpha-eight.vercel.app/"> <img alt="Badge de Clique Aqui" src="https://img.shields.io/badge/CLIQUE%20AQUI-blue?style=for-the-badge"> </a>
 
 ## 💻 Tecnologias Utilizadas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40" />
+`Trabalhado durante o curso:`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40" alt = "Ícone JavaScript"/> 
+
+`Modificado para novas implementações OPCIONAIS:`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40" alt = "Ícone HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40" alt = "Ícone CSS"/>
+
+`Desenvolvido anteriormente pela Alura:`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40" alt = "Ícone HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40" alt = "Ícone CSS"/>
+
+## 🏅 Certificado de Conclusão 
+
+<img src = "assets/Certificado.jpg" alt = "Certificado de Conclusão da Alura"/>
 
 ## 🙋 Autores
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/136634888?v=4" width=80><br> <sub> Gabriel Possato </sub>](https://github.com/possatogabriel)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/136634888?v=4" width=80 alt = "Ícone da Foto de Perfil"> <br> <sub> Gabriel Possato </sub>](https://github.com/possatogabriel)
 <br>
 <br>
-<p align = "center"> <img alt="Static Badge" src="https://img.shields.io/badge/STATUS%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-concluído-green?style=for-the-badge"> <br/> <img src = "assets/alura1.png" height = "50"></p>
+<p align = "center"> <img alt="Badge de Concluído" src="https://img.shields.io/badge/STATUS%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-conclu%C3%ADdo-green?style=for-the-badge"> <br/> <img src = "assets/alura1.png" height = "50" alt = "Logo da Alura"></p>
