@@ -36,4 +36,4 @@ Esse projeto apresenta um **sorteador de nomes** para seu Amigo Secreto, onde os
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/136634888?v=4" width=80 alt = "Ícone da Foto de Perfil"> <br> <sub> Gabriel Possato </sub>](https://github.com/possatogabriel)
 <br>
 <br>
-<p align = "center"> <img alt="Badge de Concluído" src="https://img.shields.io/badge/STATUS%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-conclu%C3%ADdo-green?style=for-the-badge"> <br/> <img src = "assets/alura1.png" height = "50" alt = "Logo da Alura"></p>
+<p align = "center"> <img alt="Badge de Concluído" src="https://img.shields.io/badge/STATUS%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-concluído-green?style=for-the-badge"> <br/> <img src = "assets/alura1.png" height = "50" alt = "Logo da Alura"></p>
